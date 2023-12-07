@@ -1,4 +1,4 @@
-**General Table Detection: composition of datasets ICDAR 19, Marmot, Github** is a dataset for an object detection task. Possible applications of the dataset could be in the optical character recognition (OCR) domain. The dataset presented here is not the original one. Learn more on the dataset's homepage.
+**General Table Detection** is a dataset for an object detection task. Possible applications of the dataset could be in the optical character recognition (OCR) domain. The dataset presented here is not the original one. Learn more on the dataset's homepage.
 
 The dataset consists of 2029 images with 2835 labeled objects belonging to 1 single class (*table*).
 

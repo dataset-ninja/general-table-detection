@@ -14,7 +14,7 @@ from dataset_tools.templates import (
 # * Before uploading to instance #
 ##################################
 PROJECT_NAME: str = "General Table Detection"
-PROJECT_NAME_FULL: str = "General Table Detection: composition of datasets ICDAR 19, Marmot, Github"
+PROJECT_NAME_FULL: str = "General Table Detection"
 HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
